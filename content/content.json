@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "name": "Philipp",
+    "role": "Product Manager",
+    "location": "Berlin, Germany",
+    "email": "hello@philipp.pm",
+    "siteTitle": "Philipp — Product Manager",
+    "siteDescription": "Berlin-based Product Manager combining user-centric discovery and AI-leveraged workflows.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/philipp",
+      "github": "https://github.com/Riuriurui"
+    }
+  },
+  "hero": {
+    "quote": "Hi, I'm a Berlin-based Product Manager combining user-centric discovery and AI-leveraged workflows to build products that solve real problems and drive positive change.",
+    "scrollLabel": "Scroll to explore"
+  },
+  "work": [
+    {
+      "id": "job-1",
+      "company": "Acme GmbH",
+      "role": "Senior Product Manager",
+      "period": "2022 — Present",
+      "location": "Berlin, Germany",
+      "tags": ["Strategy", "AI", "B2B", "SaaS", "Agile"],
+      "summary": "Led end-to-end product strategy and roadmap for a B2B SaaS platform serving 50k+ users.",
+      "content": "As Senior PM at Acme, I owned the full product lifecycle from discovery to delivery. I introduced Jobs-to-be-Done frameworks that reduced feature churn by 40% and partnered with engineering to ship AI-assisted workflows that cut operational overhead in half.\n\nKey achievements:\n- Launched three major product releases on time and within budget\n- Built a discovery process using continuous user interviews and quantitative signals\n- Introduced AI-assisted roadmapping tools that improved planning velocity by 30%\n- Grew NPS from 34 to 61 over 18 months",
+      "images": []
+    },
+    {
+      "id": "job-2",
+      "company": "Bloom Digital",
+      "role": "Product Manager",
+      "period": "2020 — 2022",
+      "location": "Berlin, Germany",
+      "tags": ["Consumer", "Mobile", "Growth", "Analytics"],
+      "summary": "Drove growth initiatives for a consumer mobile product with 200k+ monthly active users.",
+      "content": "At Bloom Digital I owned the growth product surface for a consumer mobile app. I worked across acquisition, activation, and retention — running over 60 A/B tests in two years and building a culture of evidence-based decision making.\n\nKey achievements:\n- Improved 30-day retention by 22% through onboarding redesign driven by user research\n- Built and maintained a self-serve analytics dashboard used daily by C-level stakeholders\n- Collaborated with marketing to launch a referral program that drove 15% of new sign-ups\n- Mentored two junior PMs through their first product launches",
+      "images": []
+    },
+    {
+      "id": "job-3",
+      "company": "Startup Factory Berlin",
+      "role": "Associate Product Manager",
+      "period": "2018 — 2020",
+      "location": "Berlin, Germany",
+      "tags": ["Agile", "Discovery", "B2C", "Early Stage"],
+      "summary": "Started my PM career at a startup studio — shipping 0-to-1 products across multiple verticals.",
+      "content": "My first PM role was at a startup studio where I worked on multiple 0-to-1 products simultaneously. I learned to validate fast, kill bad ideas early, and build only what users actually needed.\n\nKey achievements:\n- Co-founded two internal products from idea to beta within 6 months each\n- Facilitated discovery sprints and design sprints with cross-functional teams\n- Built strong relationships with engineering and design leads — shipped features with <5% rollback rate\n- Developed deep expertise in Agile, Scrum, and continuous delivery",
+      "images": []
+    }
+  ],
+  "projects": [
+    {
+      "id": "openclaw-bot",
+      "title": "OpenClaw Bot",
+      "description": "An AI-powered personal assistant built on the OpenClaw platform — automating workflows, managing context, and communicating across Telegram.",
+      "tags": ["AI", "Automation", "Agentic", "OpenClaw", "TypeScript"],
+      "summary": "A fully autonomous AI assistant that manages my schedule, research, and workflows — running 24/7 on a VPS.",
+      "content": "OpenClaw Bot is my personal AI assistant experiment — and one of the most ambitious things I've built without being a professional developer.\n\nThe bot runs continuously on a Hetzner VPS and handles:\n- **Morning briefings** — curated news, calendar events, and weather delivered to Telegram every morning\n- **Research tasks** — automated web research with Tavily, summarized and structured\n- **Memory management** — persistent context across sessions using a custom memory system\n- **Workflow automation** — scheduling tasks, managing to-dos, and proactive reminders\n\nBuilding this project taught me an enormous amount about agentic systems, prompt engineering, and the real challenges of running autonomous AI in production.",
+      "images": []
+    },
+    {
+      "id": "vibecode-galerie",
+      "title": "Vibecode Galerie",
+      "description": "A curated gallery of AI-generated visuals and creative coding experiments — showcasing the intersection of code and aesthetics.",
+      "tags": ["Creative Coding", "AI Art", "React", "Next.js", "Vercel"],
+      "summary": "A personal gallery project exploring AI-generated art and creative coding — built with React and deployed on Vercel.",
+      "content": "Vibecode Galerie started as a place to collect and display AI-generated images that surprised or delighted me. It grew into a full creative coding project exploring what's possible at the intersection of machine intelligence and visual design.\n\nThe gallery features:\n- **Curated AI visuals** — generated with various models, selected for aesthetic quality\n- **Creative experiments** — interactive pieces built with code and deployed on Vercel\n- **A clean, image-first layout** — letting the work speak for itself\n\nBuilding this project pushed me to understand the full Next.js App Router, image optimization, and responsive design at a deeper level. It's also a reminder that product thinking applies to personal projects too.",
+      "images": []
+    }
+  ],
+  "footer": {
+    "text": "Built with curiosity and care.",
+    "year": "2026"
+  }
+}
