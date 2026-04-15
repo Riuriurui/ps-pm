@@ -12,10 +12,7 @@ export function Nav() {
         className="text-sm font-medium tracking-wide text-foreground hover:text-purple transition-colors duration-200"
         style={{ color: "var(--foreground)" }}
       >
-        {content.meta.name}
-        <span className="ml-1.5 text-muted-foreground font-normal">
-          — {content.meta.role}
-        </span>
+        ✶✶ — Homepage.com
       </Link>
 
       <div className="flex items-center gap-4">

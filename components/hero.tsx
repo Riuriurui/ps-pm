@@ -30,17 +30,6 @@ export function Hero() {
           visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"
         }`}
       >
-        {/* Location / role tag */}
-        <div className="mb-10 flex items-center justify-center gap-2">
-          <span
-            className="inline-block w-1.5 h-1.5 rounded-full"
-            style={{ backgroundColor: "var(--orange)" }}
-          />
-          <span className="text-xs uppercase tracking-[0.18em] text-muted-foreground font-medium">
-            {content.meta.location}
-          </span>
-        </div>
-
         {/* The quote — EB Garamond */}
         <blockquote
           className="text-[clamp(1.6rem,4vw,3rem)] leading-[1.25] tracking-[-0.01em] text-foreground font-serif font-normal italic"
@@ -55,9 +44,6 @@ export function Hero() {
             className="h-px w-12"
             style={{ backgroundColor: "var(--purple)" }}
           />
-          <span className="text-xs tracking-widest uppercase text-muted-foreground">
-            Product Manager
-          </span>
           <div
             className="h-px w-12"
             style={{ backgroundColor: "var(--orange)" }}
