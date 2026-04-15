@@ -44,6 +44,9 @@ export function Hero() {
             className="h-px w-12"
             style={{ backgroundColor: "var(--purple)" }}
           />
+          <span className="text-xs tracking-widest uppercase text-muted-foreground">
+            Currently open to work
+          </span>
           <div
             className="h-px w-12"
             style={{ backgroundColor: "var(--orange)" }}
