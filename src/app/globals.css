@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&display=swap');
+@import "tailwindcss";
 
 @theme {
+  --font-sans: var(--font-outfit);
+  --font-serif: var(--font-eb-garamond);
+  
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-muted: var(--muted);
@@ -12,8 +16,6 @@
   --color-border: var(--border);
   --color-card: var(--card);
   --color-card-foreground: var(--card-foreground);
-  --font-sans: var(--font-outfit);
-  --font-serif: var(--font-eb-garamond);
 }
 
 :root {
